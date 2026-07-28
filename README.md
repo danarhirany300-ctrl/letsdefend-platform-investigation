@@ -433,9 +433,9 @@ The investigation confirmed that a malicious PowerShell script was downloaded an
 Software Engineering Student  
 Aspiring SOC Analyst | Blue Team | Incident Response | Threat Detection
 
+...................................................................................................................................................................
 
-
-# RDP Brute Force Investigation - LetsDefend
+# RDP Brute Force Investigation 3 - LetsDefend
 
 ## Overview
 
@@ -624,9 +624,9 @@ The investigation confirmed an external RDP brute-force attack originating from 
 Software Engineering Student  
 Aspiring SOC Analyst | Blue Team | Incident Response | Threat Detection
 
+...................................................................................................................................................................
 
-
-# Malicious Macro Investigation - LetsDefend
+# Malicious Macro Investigation 4 - LetsDefend
 
 ## Overview
 
