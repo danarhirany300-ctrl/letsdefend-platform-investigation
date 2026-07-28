@@ -212,10 +212,10 @@ Salahaddin University
 
 Aspiring SOC Analyst | Blue Team | Incident Response | Threat Detection | Cybersecurity
 
+..................................................................................................................................................................
 
 
-
-# Suspicious PowerShell Script Investigation - LetsDefend
+# Suspicious PowerShell Script Investigation 2 - LetsDefend
 
 ## Overview
 
